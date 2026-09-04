@@ -19,22 +19,11 @@
 
 ### 👨‍💻 About Me
 
-* 🚀 DevOps / SRE Engineer focused on **cloud infrastructure, automation, CI/CD, and reliability**
-* 💼 Former **Application Management Intern at London Stock Exchange Group (LSEG)**
-* ☁️ Experienced with **Azure and AWS cloud services**
-* 🐳 Hands-on experience with **Docker and Kubernetes**
-* 🔄 Building CI/CD pipelines using **Jenkins and GitHub Actions**
-* 🏗️ Automating infrastructure with **Terraform**
-* 📊 Working with **Datadog, Prometheus, Alertmanager, and Jaeger** for monitoring and observability
-* 🐧 Strong foundation in **Linux, networking, SQL, and system administration**
-* 🎓 Bachelor of Science in Information Technology from **SLIIT**
-* 📜 **Microsoft Certified: Azure Administrator Associate (AZ-104)**
-* 📜 **Red Hat Certified System Administrator (RHCSA)**
-* 💡 Interested in building **scalable, reliable, and highly available systems**
+DevOps / SRE Engineer with hands-on experience in application support, cloud infrastructure, CI/CD, containerization, Kubernetes, and observability. Experienced in supporting UAT and production applications, troubleshooting incidents, performing root cause analysis, and managing Azure services. Skilled in Docker, Kubernetes, Jenkins, Terraform, Azure, AWS, GitHub Actions, Prometheus, Alertmanager, and Datadog. Strong foundation in Linux, networking, SQL, and system administration, with a focus on automation, reliability, scalability, and highly available systems.
 
 ---
 
-### 🛠️ DevOps & Cloud Skills
+### 🛠️ DevOps & Cloud
 
 <p align="left">
 
@@ -122,90 +111,14 @@
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🌱 Green Farming Hub
-
-**MERN | Docker | Kubernetes | Helm | NGINX Ingress**
-
-A full-stack platform enabling farmers to purchase fertilizers online and access AI-powered crop disease detection.
-
-* Containerized frontend and backend using Docker
-* Deployed applications on Kubernetes
-* Configured Helm for application deployment
-* Implemented NGINX Ingress for external access
-* Designed the platform for scalable and reliable operation
-
-🔗 [View Repository](https://github.com/IT22049490/Green-Farming-Hub)
-
----
-
-#### 📚 SkillFlow – Learning Platform
-
-**React | Spring Boot | Jenkins | Docker | SonarQube | Argo CD | Kubernetes**
-
-A modern learning platform with automated application delivery.
-
-* Developed React frontend and Spring Boot backend
-* Built a complete CI/CD pipeline using Jenkins
-* Automated Docker image builds
-* Integrated SonarQube for code quality analysis
-* Implemented GitOps-based deployment using Argo CD
-* Deployed the application to Kubernetes
-
-🔗 [View Repository](https://github.com/IT22049490/SkillFlow-Paf)
-
----
-
-#### ☁️ Pet Care System – Terraform Deployment
-
-**AWS | Terraform | EC2 | VPC | NGINX**
-
-Infrastructure-as-Code deployment of a frontend application on AWS.
-
-* Provisioned AWS VPC and networking infrastructure
-* Automated EC2 deployment using Terraform
-* Configured security groups
-* Automated NGINX setup
-
-🔗 [View Repository](https://github.com/IT22049490/Pet-Care-System-frontend)
-
----
-
-#### 📊 Cloud-Native Observability System
-
-**Kubernetes | Prometheus | Alertmanager | Jaeger | EFK**
-
-Cloud-native monitoring and observability implementation for a microservices application.
-
-* Deployed Node.js microservices on Kubernetes
-* Implemented Prometheus metrics collection
-* Configured Alertmanager for alerting
-* Integrated Jaeger for distributed tracing
-* Implemented EFK logging for application and system logs
-* Configured alerts for pod restarts and high CPU usage
-
-🔗 [View Repository](https://github.com/IT22049490/Observability-monitoring-system)
-
----
-
-### 📜 Certifications
-
-* **Microsoft Certified: Azure Administrator Associate (AZ-104)** — Microsoft
-* **Red Hat Certified System Administrator (RHCSA)** — Red Hat
-* **Certified Windows Network Administrator** — Turnkey IT Campus
-* **Crash Course on Python** — Coursera
-
----
-
 ### 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IT22049490&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IT22049490&show_icons=true&include_all_commits=true&count_private=false&hide=issues&rank_icon=github&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IT22049490&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT22049490&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5&locale=en" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -214,10 +127,10 @@ Cloud-native monitoring and observability implementation for a microservices app
 
 ---
 
-### 🔝 Top Contributed Repository
+### 🔝 Top Contributed Repositories
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=IT22049490&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=IT22049490&limit=5&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
 </p>
 
 ---
@@ -225,6 +138,7 @@ Cloud-native monitoring and observability implementation for a microservices app
 ### 🤝 Connect With Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/mohamed-fasnas/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
@@ -232,6 +146,7 @@ Cloud-native monitoring and observability implementation for a microservices app
 <a href="https://instagram.com/mo_faz_99" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
 </a>
+
 </p>
 
 📫 **Email:** [mohamedfasnas999@gmail.com](mailto:mohamedfasnas999@gmail.com)
