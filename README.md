@@ -1,37 +1,237 @@
 <h1 align="center">Hi 👋, I'm Mohamed Fasnas</h1>
-<h3 align="center">Passionate IT Student | Empowering Ideas Through Code</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=it22049490&label=Profile%20views&color=0e75b6&style=flat" alt="it22049490" /> </p>
+<h3 align="center">DevOps / SRE Engineer | Cloud & Infrastructure | Kubernetes | CI/CD</h3>
 
-- 🌱 I’m currently learning **Python**
-
-- 🤝 I’m an Undergraduate at **SLIIT**
-
-- 💬 Ask me about **Java,C++,react**
-
-- 📫 How to reach me **mohamedfasnas999@gmail.com**
-
-- ⚡ Fun fact **Call me as MofaZ**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/mo_faz_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mo_faz_99" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IT22049490&label=Profile%20views&color=0e75b6&style=flat" alt="IT22049490" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<hr>
+<p align="center">
+  <a href="https://github.com/IT22049490">
+    <img src="https://img.shields.io/github/followers/IT22049490?label=Followers&style=flat" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/IT22049490">
+    <img src="https://img.shields.io/github/stars/IT22049490?label=Stars&style=flat" alt="GitHub stars" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IT22049490&show_icons=true&locale=en&layout=compact" alt="it22049490" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IT22049490&show_icons=true&locale=en" alt="it22049490" /></p>
+### 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IT22049490&" alt="it22049490" /></p>
+* 🚀 DevOps / SRE Engineer focused on **cloud infrastructure, automation, CI/CD, and reliability**
+* 💼 Former **Application Management Intern at London Stock Exchange Group (LSEG)**
+* ☁️ Experienced with **Azure and AWS cloud services**
+* 🐳 Hands-on experience with **Docker and Kubernetes**
+* 🔄 Building CI/CD pipelines using **Jenkins and GitHub Actions**
+* 🏗️ Automating infrastructure with **Terraform**
+* 📊 Working with **Datadog, Prometheus, Alertmanager, and Jaeger** for monitoring and observability
+* 🐧 Strong foundation in **Linux, networking, SQL, and system administration**
+* 🎓 Bachelor of Science in Information Technology from **SLIIT**
+* 📜 **Microsoft Certified: Azure Administrator Associate (AZ-104)**
+* 📜 **Red Hat Certified System Administrator (RHCSA)**
+* 💡 Interested in building **scalable, reliable, and highly available systems**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=IT22049490&limit=5&theme=flat&combine_all_yearly_contributions=true)
+---
 
+### 🛠️ DevOps & Cloud Skills
 
+<p align="left">
 
+<a href="https://azure.microsoft.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
+</a>
 
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+</a>
 
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+</a>
+
+<a href="https://kubernetes.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/>
+</a>
+
+<a href="https://www.jenkins.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
+</a>
+
+<a href="https://www.terraform.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
+</a>
+
+<a href="https://helm.sh/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="Helm" width="40" height="40"/>
+</a>
+
+<a href="https://argo-cd.readthedocs.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="Argo CD" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</a>
+
+<a href="https://github.com/features/actions" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/>
+</a>
+
+</p>
+
+### 📊 Monitoring & Observability
+
+<p align="left">
+
+<a href="https://www.datadoghq.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="Datadog" width="40" height="40"/>
+</a>
+
+<a href="https://prometheus.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/>
+</a>
+
+<a href="https://www.jaegertracing.io/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/jaegertracingio/jaegertracingio-icon.svg" alt="Jaeger" width="40" height="40"/>
+</a>
+
+</p>
+
+### 🐧 Systems & Programming
+
+<p align="left">
+
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</a>
+
+<a href="https://www.java.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+</a>
+
+<a href="https://www.microsoft.com/windows-server" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows Server" width="40" height="40"/>
+</a>
+
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+#### 🌱 Green Farming Hub
+
+**MERN | Docker | Kubernetes | Helm | NGINX Ingress**
+
+A full-stack platform enabling farmers to purchase fertilizers online and access AI-powered crop disease detection.
+
+* Containerized frontend and backend using Docker
+* Deployed applications on Kubernetes
+* Configured Helm for application deployment
+* Implemented NGINX Ingress for external access
+* Designed the platform for scalable and reliable operation
+
+🔗 [View Repository](https://github.com/IT22049490/Green-Farming-Hub)
+
+---
+
+#### 📚 SkillFlow – Learning Platform
+
+**React | Spring Boot | Jenkins | Docker | SonarQube | Argo CD | Kubernetes**
+
+A modern learning platform with automated application delivery.
+
+* Developed React frontend and Spring Boot backend
+* Built a complete CI/CD pipeline using Jenkins
+* Automated Docker image builds
+* Integrated SonarQube for code quality analysis
+* Implemented GitOps-based deployment using Argo CD
+* Deployed the application to Kubernetes
+
+🔗 [View Repository](https://github.com/IT22049490/SkillFlow-Paf)
+
+---
+
+#### ☁️ Pet Care System – Terraform Deployment
+
+**AWS | Terraform | EC2 | VPC | NGINX**
+
+Infrastructure-as-Code deployment of a frontend application on AWS.
+
+* Provisioned AWS VPC and networking infrastructure
+* Automated EC2 deployment using Terraform
+* Configured security groups
+* Automated NGINX setup
+
+🔗 [View Repository](https://github.com/IT22049490/Pet-Care-System-frontend)
+
+---
+
+#### 📊 Cloud-Native Observability System
+
+**Kubernetes | Prometheus | Alertmanager | Jaeger | EFK**
+
+Cloud-native monitoring and observability implementation for a microservices application.
+
+* Deployed Node.js microservices on Kubernetes
+* Implemented Prometheus metrics collection
+* Configured Alertmanager for alerting
+* Integrated Jaeger for distributed tracing
+* Implemented EFK logging for application and system logs
+* Configured alerts for pod restarts and high CPU usage
+
+🔗 [View Repository](https://github.com/IT22049490/Observability-monitoring-system)
+
+---
+
+### 📜 Certifications
+
+* **Microsoft Certified: Azure Administrator Associate (AZ-104)** — Microsoft
+* **Red Hat Certified System Administrator (RHCSA)** — Red Hat
+* **Certified Windows Network Administrator** — Turnkey IT Campus
+* **Crash Course on Python** — Coursera
+
+---
+
+### 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IT22049490&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IT22049490&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IT22049490" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🔝 Top Contributed Repository
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=IT22049490&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/mohamed-fasnas/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/mo_faz_99" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
+</p>
+
+📫 **Email:** [mohamedfasnas999@gmail.com](mailto:mohamedfasnas999@gmail.com)
