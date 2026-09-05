@@ -69,6 +69,8 @@ DevOps / SRE Engineer with hands-on experience in application support, cloud inf
 
 </p>
 
+---
+
 ### 📊 Monitoring & Observability
 
 <p align="left">
@@ -86,6 +88,8 @@ DevOps / SRE Engineer with hands-on experience in application support, cloud inf
 </a>
 
 </p>
+
+---
 
 ### 🐧 Systems & Programming
 
@@ -111,39 +115,15 @@ DevOps / SRE Engineer with hands-on experience in application support, cloud inf
 
 ---
 
-### 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IT22049490&show_icons=true&include_all_commits=true&count_private=false&hide=issues&rank_icon=github&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT22049490&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5&locale=en" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IT22049490" alt="GitHub Streak" />
-</p>
-
----
-
-### 🔝 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=IT22049490&limit=5&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
-</p>
-
----
-
 ### 🤝 Connect With Me
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/mohamed-fasnas/" target="_blank">
+<a href="https://www.linkedin.com/in/fasnas/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 
-<a href="https://instagram.com/mo_faz_99" target="_blank">
+<a href="https://www.instagram.com/mo_faz_99/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
 </a>
 
